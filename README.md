@@ -1,16 +1,17 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Anas&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Web%20Development&descAlignY=51&descAlign=62)
 
-<!--
-**AnasDB/AnasDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```cpp
+#include <iostream>
+#include <string.h>
+using namespace std;
 
-Here are some ideas to get you started:
+int main(void) {
+    string info = "Web Developper, DBA, SysAdmin";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    string langs[6] = { "HTML/CSS/JS", "PHP", "Python3", "Bash", "C", "MySQL" };
+    string tech[5] = {"Laravel", "Bootstrap", "AxiosJS", "Swiper.JS", "AOS"};
+
+    return 0;
+}
+``` 
+
