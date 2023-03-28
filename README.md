@@ -6,7 +6,7 @@
 using namespace std;
 
 int main(void) {
-    string info = "Web Developper, DBA, SysAdmin";
+    string info = "Web Developper, Pentest Web, SysAdmin";
 
     string langs[6] = { "HTML/CSS/JS", "PHP", "Python3", "Bash", "C", "MySQL" };
     string tech[5] = {"Laravel", "Bootstrap", "AxiosJS", "Swiper.JS", "AOS"};
