@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Brunk&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Web%20Development%20%2F%%22DevOps&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Brunk&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Web%20Development%20%2F% DevOps&descAlignY=51&descAlign=62)
 
 ```php
 class Profile {
