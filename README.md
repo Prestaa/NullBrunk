@@ -3,7 +3,7 @@
 ```php
 class Profile {
 
-    private $info = "Web Developper, Web Pentester";
+    private $info = "Web Developper, Dev Ops";
 
     private $langs = [
         "HTML/CSS", "JavaScript", "PHP", "Python3", "Bash", "SQL" 
