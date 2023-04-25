@@ -9,6 +9,7 @@ class Profile {
         "HTML/CSS", "JavaScript", "PHP", "Python3", "Bash", "SQL" 
     ];
 
+
     private $frameworks = [
         "Laravel", "Bootstrap", "Flask"
     ];
